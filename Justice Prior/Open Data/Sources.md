@@ -6,6 +6,8 @@
 
 **[2]** U.S. Government Code of Federal Regulations in XML ["**_National Archives and Records Administration_**"](https://catalog.data.gov/dataset/code-of-federal-regulations-in-xml)
 
-**[3]** U.S. Government Code of Federal Regulations in XML ["**_National Archives and Records Administration_**"](https://catalog.data.gov/dataset/code-of-federal-regulations-in-xml)
+**[3]** UK Legislation ["**_The National Archives - UK Open Government_**"](https://old.datahub.io/dataset/uk-legislation-api)
 
 **[4]** French public data - Droit ["**_Open platform for French public data_**"](https://www.data.gouv.fr/en/search/?q=droit)
+
+**[5]** New Zealand Legislation ["**_New Zealand Parliamentary Counsel Office_**"](https://catalogue.data.govt.nz/dataset/new-zealand-legislation)
