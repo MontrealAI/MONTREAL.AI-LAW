@@ -10,7 +10,9 @@
 
 **[4]** French public data - Droit ["**_Open platform for French public data_**"](https://www.data.gouv.fr/en/search/?q=droit)
 
-**[5]** New Zealand Legislation ["**_New Zealand Parliamentary Counsel Office_**"](https://catalogue.data.govt.nz/dataset/new-zealand-legislation)
+**[5]** Portal da Legislação ["**_Governo do Brasil_**"](http://www4.planalto.gov.br/legislacao/)
+
+**[6]** New Zealand Legislation ["**_New Zealand Parliamentary Counsel Office_**"](https://catalogue.data.govt.nz/dataset/new-zealand-legislation)
 
 ## Representations
 
