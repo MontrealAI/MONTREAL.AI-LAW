@@ -1,4 +1,4 @@
-# Justice Prior
+# The Justice Prior
 
 ## From Laws to Justice
 
